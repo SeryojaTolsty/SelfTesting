@@ -46,7 +46,6 @@ public class Homie {
         Scanner close;
     }
 
-
         //integerArray();
         //hollowEightArray();
         //lessThenSix();
