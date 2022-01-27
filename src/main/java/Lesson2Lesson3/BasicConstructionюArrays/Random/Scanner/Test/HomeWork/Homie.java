@@ -46,17 +46,6 @@ public class Homie {
         Scanner close;
     }
 
-        //integerArray();
-        //hollowEightArray();
-        //lessThenSix();
-        //slashArr();
-        //minMaxArray();
-//        balanceArray(2, 2, 2, 1, 2, 2, 10, 1);
-/*        int[] arr = {2, 2, 2, 1, 2, 2, 10, 1};
-//        System.out.print(balanceArray(a));
-        rotateA();*/
-
-//    }
 
     private static void integerArray() {
         int[] a = {1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0};
